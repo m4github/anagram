@@ -1,2 +1,2 @@
 # anagram
-hacker-rank code challenge
+Honey-pot code challenge in Hacker-rank
